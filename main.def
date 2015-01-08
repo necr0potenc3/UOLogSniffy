@@ -1,0 +1,6 @@
+; main.def
+
+LIBRARY      "UOLogSniffy"
+
+EXPORTS
+	HookClient
